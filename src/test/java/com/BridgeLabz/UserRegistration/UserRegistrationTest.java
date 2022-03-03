@@ -1,4 +1,4 @@
-package com.BridgeLabz.AddBookLambda;
+package com.BridgeLabz.UserRegistration;
 
 import org.junit.jupiter.api.Test;
 

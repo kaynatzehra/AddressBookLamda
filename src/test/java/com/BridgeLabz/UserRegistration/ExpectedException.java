@@ -1,4 +1,4 @@
-package com.BridgeLabz.AddBookLambda;
+package com.BridgeLabz.UserRegistration;
 
 public class ExpectedException {
     public static ExpectedException none() {

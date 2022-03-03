@@ -1,4 +1,4 @@
-package com.BridgeLabz.AddBookLambda;
+package com.BridgeLabz.UserRegistration;
 
 public class InvalidUserException extends Exception{
     public InvalidUserException(String message) {

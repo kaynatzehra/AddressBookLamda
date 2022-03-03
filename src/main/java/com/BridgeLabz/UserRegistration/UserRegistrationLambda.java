@@ -1,4 +1,4 @@
-package com.BridgeLabz.AddBookLambda;
+package com.BridgeLabz.UserRegistration;
 import java.util.regex.Pattern;
 
 @FunctionalInterface
